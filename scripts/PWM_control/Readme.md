@@ -88,5 +88,5 @@ You will see messages like:
 
 ## 🧠 Reference
 
-- [ArduPilot Lua Scripting Docs](https://ardupilot.org/dev/docs/scripting.html)
+- [ArduPilot Lua Scripting Docs](https://ardupilot.org/copter/docs/common-lua-scripts.html)
 - [SERVOx_FUNCTION parameter reference](https://ardupilot.org/copter/docs/common-servo.html)
